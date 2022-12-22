@@ -3,11 +3,7 @@
 Collaborative and Popularity based Recommendation System using Flask and WebDev
 
 
- <h2>
- 
- [Deployed App Link](https://book-recommendation-sys-py.herokuapp.com/)
- 
- </h2>
+
 
 ![1](https://user-images.githubusercontent.com/108725514/198863653-429f7531-2075-4c05-b58b-406dff48674b.png)
 
